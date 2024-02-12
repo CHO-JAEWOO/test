@@ -9,7 +9,7 @@ Created on Wed Nov 17 01:15:30 2021
 from ezc3d import c3d
 import pdb
 
-name = 'STS_sample.c3d'  # marker data
+name = 'STS_sample.c3d' 
 
 c3d_CH = c3d(name)
 # c3d_CH = c3d(name, extract_forceplat_data=True)
